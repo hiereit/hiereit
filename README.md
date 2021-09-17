@@ -1,8 +1,6 @@
 <!-- 헤더작성 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=300&section=header&text=sera%20Park&fontColor=FFFFFF&fontSize=70&fontAlignY=40&desc=wantTobeFullStackDeveloper&descSize=20&animation=twinkling" />
-
 <h3 align="center"> 🛠️ Tech Stack 🛠️</h3>
-
 <!--프레임 워크관련-->
 <h4 align="center">  FrameWork & Languages</h4>
 <p align="center">
