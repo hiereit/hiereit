@@ -1,5 +1,5 @@
 <!-- 헤더작성 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=300&section=header&text=sera%20Park&fontColor=FFFFFF&fontSize=70&fontAlignY=40&desc=wantTobeFullStackDeveloper&descSize=20&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=sera%20Park&fontColor=FFFFFF&fontSize=70&fontAlignY=30&desc=wantTobeFullStackDeveloper&descAlignY=55&descSize=20&animation=twinkling" />
 <h2 align="center"> 🛠️ Tech Stack 🛠️</h2>
 <!--프레임 워크관련-->
 <h4 align="center">  FrameWork & Languages</h4>
