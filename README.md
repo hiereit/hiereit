@@ -6,23 +6,24 @@
 <!--프레임 워크관련-->
 <h4 align="center">  FrameWork & Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3766AB??style=flat&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>&nbsp;<br>
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Python-3766AB??style=flat&logo=Python&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=Thymeleaf&logoColor=white"/>&nbsp;<br>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android Studio&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>&nbsp;
 </p>
-
-<h4 align="center"> 🌱 I’m currently learning ... 🌱</h4>
-<p align="center">  
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"/>&nbsp;
-</p>
-
 
 <!--디자인 툴 관련-->
 <h4 align="center">  🎨design Tool 🖌️</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-2FA3F7?style=flat&logo=Adobe Photoshop&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Illustrator-f79500?style=flat&logo=Adobe Illustrator&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Adobe XD-F725B8?style=flat&logo=Adobe XD&logoColor=white"/>&nbsp;
   </p>
+  
+<!--배우고 있는...-->
+<h4 align="center"> 🌱 I’m currently learning ... 🌱</h4>
+<p align="center">  
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=Amazon AWS&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=Amazon DynamoDB&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=Apache Spark&logoColor=white"/>&nbsp;
+</p>
 
 <!--푸터작성-->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=100&section=footer&animation=twinkling" />
