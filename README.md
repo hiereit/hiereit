@@ -20,10 +20,17 @@ I enjoy Hiking ⛰️ , watching media 📺 , playing Piano🎹 .
 </p>
 
 <!--디자인 툴 관련-->
-<h4>  🎨design Tool 🖌️</h4>
-<p>
+<h4>  🎨design Tool :</h4>
+<!-- <p>
   <img src="https://img.shields.io/badge/Photoshop-2FA3F7?style=flat&logo=Adobe Photoshop&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Illustrator-f79500?style=flat&logo=Adobe Illustrator&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Adobe XD-F725B8?style=flat&logo=Adobe XD&logoColor=white"/>&nbsp;
+  </p> -->
+  <p>
+    <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" style="max-width: 100%;"></a></code>
   </p>
+  
+  
 <!--배우고 있는...-->
 <h3> 🌱 I’m currently learning ... 🌱</h3>
 <p>  
